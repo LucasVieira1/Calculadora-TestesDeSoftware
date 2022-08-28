@@ -9,10 +9,10 @@
 *  Java
 
 ## 📚 Descrição
-Exercicio para composição de nota e obtenção de conhecimentos em Testes de Software, criação de um ambiente de testes.
+Exercicio para composição de nota e obtenção de conhecimentos em Testes de Software, criação de uma calculadora com 4 operações e coloca-la em um ambiente de testes.
 
 ## 🎯 Objetivo
-Descobrir a importancia de testes e implanta-lo na aplicação, obter conhecimento em como os testes devem ser implementados e organizados, evitar problemas futuros.
+Descobrir a importancia de testes e implanta-lo na aplicação, obter conhecimento em como os testes devem ser implementados e organizados, evitar falhas e problemas futuros.
 
 ## ⁉ Como Acessar?
 Para ter o projeto em sua máquina, é necessário efetuar o clone em uma pasta desejada, e abrir com sua IDE de preferência.
