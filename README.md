@@ -9,7 +9,7 @@
 *  Java
 
 ## 📚 Descrição
-Exercicio para composição de nota e obtenção de conhecimentos em Testes de Software, criação de uma calculadora com 4 operações e coloca-la em um ambiente de testes.
+Exercicio para composição de nota e obtenção de conhecimentos em Testes de Software, criação de uma calculadora com 4 operações, coloca-la em um ambiente de testes.
 
 ## 🎯 Objetivo
 Descobrir a importancia de testes e implanta-lo na aplicação, obter conhecimento em como os testes devem ser implementados e organizados, evitar falhas e problemas futuros.
